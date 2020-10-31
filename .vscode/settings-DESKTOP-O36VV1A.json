@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Han\\.conda\\envs\\thesis\\python.exe",
+    "python.dataScience.jupyterServerURI": "http://localhost:8888",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
